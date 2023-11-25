@@ -8,6 +8,7 @@ require('./hbs/helpers')
 
 app.use(express.static(__dirname + '/public'))
 hbs.registerPartials(__dirname + '/views/partials')
+hbs.registerPartials(__dirname + '/views/personal')
 app.set('view engine', 'hbs')
 
 app.listen(port, () => {
@@ -16,4 +17,8 @@ app.listen(port, () => {
 
 app.get('/', (req, res) => {
     res.render('home')
+})
+
+app.get('/jose_vega', (req, res) => {
+    res.render('personal_web')
 })

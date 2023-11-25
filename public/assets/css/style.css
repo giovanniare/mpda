@@ -36,7 +36,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f7f8f9;
   --bs-dark: #343a40;
-  --bs-primary-rgb: 76, 189, 137;
+  --bs-primary-rgb: 18, 232, 222;
   --bs-secondary-rgb: 143, 147, 151;
   --bs-success-rgb: 40, 167, 69;
   --bs-info-rgb: 23, 162, 184;
@@ -21517,3 +21517,10 @@ footer .widget {
 
 /*User CSS*/
 /*# sourceMappingURL=style.css.map */
+
+
+.line_test {
+  padding: 2rem;
+  width: 50%; /* Longitud inicial de la línea */
+  transition: width 0.3s; /* Agregamos transición para suavizar el cambio de longitud */
+}

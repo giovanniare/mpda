@@ -1,0 +1,77 @@
+<!-- =======================
+footer  -->
+<footer class="footer footer-dark">
+    <div class="footer-content">
+        <div class="container">
+            <div class="row">
+                <!-- Footer widget 1 -->
+                <div class="col-md-8 mx-auto">
+                    <div class="widget text-center mt-5">
+                        <ul class="list-inline">
+                            <li class="list-inline-item ps-2">
+                                <a class="navbar-brand" href="/">
+                                    <!-- Logo -->
+                                    <img class="navbar-brand-item" src="assets/images/logos/figura_lg.png" alt="Logo">
+                                </a>
+                            </li>
+                            <li class="list-inline-item ps-2">
+                                <!-- Logo -->
+                                <a class="navbar-brand" href="/">
+                                    <!-- Logo -->
+                                    <img class="navbar-brand-item" src="assets/images/logos/solo_letras_blanco.png" alt="Logo">
+                                </a>
+                            </li>
+                        </ul>
+                        <p class="mt-3">Here could be some kind of slogan regarding company goals, vision or something like that.</p>
+                        <!-- contact info -->
+                        <ul class="p-0 list-inline">
+                            <li class="list-inline-item me-4"><i class="me-1 text-primary ti-map-alt"></i>1421 Coburn, Near Center Point, IL 61548. </li>
+                            <li class="list-inline-item me-4"><i class="me-1 text-primary ti-headphone-alt"></i><a href="tel:+523318039863" target="_blank">(+52) 331-803-9863</a> </li>
+                            <li class="list-inline-item me-4"><i class="me-1 text-primary ti-email"></i> <a href="mailto:jose.v@mpda.com.mx" target="_blank">jose.v@mpda.com.mx</a> </li>
+                        </ul>
+                        <div class="divider my-3"></div>
+                        <!-- footer links -->
+                        <div class="copyright-links my-2">
+                            <ul class="list-inline">
+                                <li class="list-inline-item ps-2"><a class="list-group-item-action" href="/">Home</a></li>
+                                <li class="list-inline-item ps-2"><a class="list-group-item-action" href="/#about_us">About Us</a></li>
+                                <li class="list-inline-item ps-2"><a class="list-group-item-action" href="/#portfolio">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <!-- copyright text -->
+                        <div class="copyright-text">©{{ getAnio }} All Rights Reserved by MPDA</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- =======================
+footer  -->
+
+<!-- Back to top -->
+<div> <a href="#" class="back-top btn btn-grad"><i class="ti-angle-up"></i></a> </div>
+
+<!-- Bootstrap JS -->
+<script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<!--Vendors-->
+<script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/imagesLoaded/imagesloaded.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.js"></script>
+<script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
+<script src="assets/vendor/ityped/index.js"></script>
+
+<!--Template Functions-->
+<script src="assets/js/functions.js"></script>
+
+<script>
+    // Capturamos el elemento de la línea
+    const line = document.getElementById('scroll-line');
+
+    // Manejamos el evento de scroll
+    window.addEventListener('scroll', () => {
+        // Ajustamos la longitud de la línea al desplazamiento vertical actual
+        line.style.width = `${50 + window.scrollY * 0.1}%`;
+    });
+</script>
