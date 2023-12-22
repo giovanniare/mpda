@@ -21524,3 +21524,7 @@ footer .widget {
   width: 50%; /* Longitud inicial de la línea */
   transition: width 0.3s; /* Agregamos transición para suavizar el cambio de longitud */
 }
+
+.text-bold {
+  font-weight: bolder;
+}
