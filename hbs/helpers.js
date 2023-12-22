@@ -7,3 +7,7 @@ hbs.registerHelper('getAnio', () => {
 hbs.registerHelper('personal_data', (data) => {
     return data
 })
+
+hbs.registerHelper('language', (data) => {
+    return data
+})

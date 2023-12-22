@@ -70,3 +70,12 @@ footer  -->
 
 <!--Template Functions-->
 <script src="assets/js/functions.js"></script>
+
+<script>
+	// Manejar el cambio de idioma con JavaScript
+	document.getElementById('lang-select').addEventListener('change', function() {
+		const selectedLang = this.value;
+		document.cookie = `lang=${selectedLang}; path=/`;
+		window.location.reload();
+	});
+</script>
