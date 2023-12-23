@@ -57,7 +57,7 @@ app.get('/', (req, res) => {
         var info = JSON.parse(data)
     }
 
-    res.render('home', info.menu)
+    res.render('home', info)
 })
 
 app.get('/jose_vega', (req, res) => {

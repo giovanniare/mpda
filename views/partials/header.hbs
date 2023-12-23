@@ -22,21 +22,21 @@ header Start-->
                 <ul class="navbar-nav navbar-nav-scroll navbar-nav-scroll ms-auto" style="transition: backgroung .25s, box-shadow .15s;&hover {color: #4A4860; background: #FFC4EB; box-shadow: 0px 4px 0px 0px}">
                     <!-- Menu item 1 About us-->
                     <li class="nav-item">
-                        <a class="btn btn-link" href="/#about_us" aria-haspopup="true" aria-expanded="false">About us</a>
+                        <a class="btn btn-link" href="/#about_us" aria-haspopup="true" aria-expanded="false">{{language header.about}}</a>
                     </li>
                     <!-- Menu item 2 Why us-->
                     <li class="nav-item">
-                        <a class="btn btn-link" href="/#why_us" id="demosMenu">Why us</a>
+                        <a class="btn btn-link" href="/#why_us" id="demosMenu">{{language header.why}}</a>
                     </li>
                     <!-- Menu item 3 Services-->
                     <li class="nav-item">
-                        <a class="btn btn-link" href="/#services" id="demosMenu">Services</a>
+                        <a class="btn btn-link" href="/#services" id="demosMenu">{{language header.serv}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-link" href="/#portfolio" id="demosMenu">Portfolio</a>
+                        <a class="btn btn-link" href="/#portfolio" id="demosMenu">{{language header.portf}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-link" href="/#certifications" id="demosMenu">Certifications</a>
+                        <a class="btn btn-link" href="/#certifications" id="demosMenu">{{language header.certf}}</a>
                     </li>
                     <!-- Menu item 3 Pages-->
                     <!--li class="nav-item dropdown">
@@ -141,6 +141,14 @@ header Start-->
                         </ul>
                     </li-->
                 </ul>
+                <div class="navbar-nav dropdown me-3" id="language-switcher">
+                    <div class="nav-item">
+                        <select class="btn-lang btn-link" id="lang-select">
+                            <option value="en" {{#if (en lang)}}selected{{/if}}>English</option>
+                            <option value="es" {{#if (es lang)}}selected{{/if}}>Español</option>
+                        </select>
+                    </div>
+                </div>
                 <!-- top social -->
                 <!--ul class="social-icons nav-link" style="padding-left: 1rem; padding-right: 1.5rem">
                     <li class="social-icons-item social-facebook m-0">
@@ -159,13 +167,7 @@ header Start-->
             <div class="navbar-nav">
                 <!-- extra item Btn-->
                 <div class="nav-item border-0 d-none d-lg-inline-block align-self-center">
-                    <a href="/#contact" class=" btn btn-sm btn-grad text-white mb-0">Contact us!</a>
-                </div>
-                <div class="nav-item border-0 d-none d-lg-inline-block align-self-center ms-3" id="language-switcher">
-                    <select id="lang-select">
-                        <option value="en" selected>English</option>
-                        <option value="es">Español</option>
-                    </select>
+                    <a href="/#contact" class=" btn btn-sm btn-grad text-white mb-0">{{language contact}}!</a>
                 </div>
             </div>
             <!-- Header Extras End-->

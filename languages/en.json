@@ -1,6 +1,41 @@
 {
-    "menu": {
+    "contact": "Contact us",
+    "header": {
+        "test": "This is a test",
         "about": "About us",
-        "test": "This is a test"
+        "why": "Why us",
+        "serv": "Services",
+        "portf": "Portfolio",
+        "certf": "Certifications"
+    },
+    "main_banner": {
+        "pres": {
+            "big": "We are the best option for your business.",
+            "little": "Metodos Integrales de Procesos Especializados en Distribucion y Asesoramiento."
+        },
+        "warehouse": {
+            "big": "Warehouse.",
+            "little": "Efficiency and organization and diversity of materials."
+        },
+        "supply": {
+            "big": "Supply Chain.",
+            "little": "Illustrate the holistic process of our company follows, emphasizing reliability and the ability to meet client demands."
+        },
+        "team": {
+            "big": "Team.",
+            "little": "Expertise and dedication of the people behind."
+        },
+        "delivery": {
+            "big": "Delivery and Transportation.",
+            "little": "Reliable delivery services, commitment to deliver timely and secure material transportation."
+        },
+        "client": {
+            "big": "Client Collaboration.",
+            "little": "This is our client-focused approach, emphasizing collaboration and understanding the unique needs of manufacturing businesses."
+        },
+        "final": {
+            "big": "We handle the best products.",
+            "little": "All products and solutions that your business needs."
+        }
     }
 }

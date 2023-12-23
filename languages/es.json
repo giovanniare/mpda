@@ -1,6 +1,41 @@
 {
-    "menu": {
+    "contact": "Contactanos",
+    "header": {
+        "test": "Esto es un test",
         "about": "Nosotros",
-        "test": "Esto es un test"
+        "why": "Porqué mpda",
+        "serv": "Servicios",
+        "portf": "Portafolio",
+        "certf": "Certificaciones"
+    },
+    "main_banner": {
+        "pres": {
+            "big": "Somos la mejor opción para tu negocio.",
+            "little": "Metodos Integrales de Procesos Especializados en Distribucion y Asesoramiento."
+        },
+        "warehouse": {
+            "big": "Warehouse.",
+            "little": "Eficiencia, organización y diversidad de materiales."
+        },
+        "supply": {
+            "big": "Cadena de suministros.",
+            "little": "Ilustrando el proceso holístico que nuestra compañía sigue, enfatizando en la confiabilidad y la capacidad de satisfacer las demandas de los clientes."
+        },
+        "team": {
+            "big": "Equipo.",
+            "little": "Experiencia y dedicación de nuestra gente."
+        },
+        "delivery": {
+            "big": "Entrega y Transporte.",
+            "little": "Servicios de entrega confiables, compromiso de entregar transporte de materiales seguro y oportuno."
+        },
+        "client": {
+            "big": "Colaboración con el cliente.",
+            "little": "Nuestro enfoque está centrado en el cliente, que enfatiza la colaboración y comprende las necesidades únicas de las empresas de fabricación.."
+        },
+        "final": {
+            "big": "Tenemos los mejores productos para ti.",
+            "little": "Todos los productos y las soluciones que tu negocio necesita."
+        }
     }
 }
