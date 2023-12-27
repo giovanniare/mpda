@@ -37,5 +37,106 @@
             "big": "We handle the best products.",
             "little": "All products and solutions that your business needs."
         }
+    },
+    "about": {
+        "slogan": {
+            "tittle": "Our goal:",
+            "text": "If you need it, we have it"
+        },
+        "info": {
+            "tittle": "Get it done with MPDA",
+            "lead": "At MPDA, you can count on us because we've been in the game for 7 years, perfecting the art of material distribution. Our crew of experienced leaders knows the ins and outs of the manufacturing world, so we get what you need. We're not just about numbers; we're about making your life easier. Think of us as your go-to pals in the distribution scene.",
+            "text": "We've got the history, the know-how, and the solutions to keep your operation running smoothly. So, why us? Because we're not just here for now; we're here for the long haul, ready to bring you top-notch material distribution without the fuss. Trust us; we've got your back.",
+            "portf": "View Portfolio"
+        }
+    },
+    "why_us": {
+        "question": "Why you should trust us?",
+        "tittle": "We Provide the best solutions for your business needs!",
+        "text": "Hey there, when it comes to tackling the tricky stuff and saving you some serious cash, we're not just a quick fix – we're in it for the long haul.",
+        "check_1": "Elevate with Expertise: Unleashing Proven Solutions",
+        "check_2": "Reliable Solutions, Expertly Delivered",
+        "check_3": "We are here to make things happen",
+        "check_4": "Forging Tomorrow’s Success with Today’s Expertise",
+        "check_5": "Your Partner for Reliable Solutions and Expert Precision"
+    },
+    "service": {
+        "pre": "Check out our services",
+        "tittle": "Premium and royal service",
+        "text": "Our success stories aren't just success stories; they're the beginning of what we hope is a lasting friendship.",
+        "box_1": {
+            "tittle": "Mindset",
+            "text": "We're not here for a one-time win; we want to be your go-to team for the foreseeable future."
+        },
+        "box_2": {
+            "tittle": "Compromise",
+            "text": "We're very focous to help you to get the best products"
+        },
+        "box_3": {
+            "tittle": "Meet your expectations",
+            "text": "Be sure we will do our best."
+        }
+    },
+    "action_box": {
+        "text": "So, let's kick off this adventure together. We'll handle the challenges, cut the costs, and make sure success isn't just a moment but a journey we share. Ready to dive in? Let's make it happen."
+    },
+    "portfolio": {
+        "item_1": {
+            "tittle": "PCBA Labels",
+            "text": "Customize and printing desing thermal labels"
+        },
+        "item_2": {
+            "tittle": "Nuts",
+            "text": "All type of nuts"
+        },
+        "item_3": {
+            "tittle": "Washers",
+            "text": "All type of Washers"
+        },
+        "item_4": {
+            "tittle": "Screws",
+            "text": "Screws for all needs"
+        },
+        "item_5": {
+            "tittle": "Rivets",
+            "text": "Blind Rivets"
+        },
+        "item_6": {
+            "tittle": "Warehouse",
+            "text": "Warehouse"
+        },
+        "item_7": {
+            "tittle": "Wipes",
+            "text": "Cleanroom Wipes"
+        },
+        "item_8": {
+            "tittle": "Nuts",
+            "text": "All types of nuts"
+        },
+        "item_9": {
+            "tittle": "Chemicals",
+            "text": "Industrial chemicals"
+        },
+        "item_10": {
+            "tittle": "Silicon",
+            "text": "Silicon"
+        },
+        "item_11": {
+            "tittle": "Importation",
+            "text": "Industrial"
+        },
+        "item_12": {
+            "tittle": "Antistatic shoes",
+            "text": "Antistatic shoes"
+        }
+    },
+    "certifications": {
+        "title": "Our Certifications"
+    },
+    "contact_sec": {
+        "title": "How can we assist you?",
+        "text": "MPDA customer support is available free of charge. Connection charges can vary when calling from outside the area or abroad.",
+        "address": "Address",
+        "phone": "Phone"
     }
 }

@@ -37,5 +37,109 @@
             "big": "Tenemos los mejores productos para ti.",
             "little": "Todos los productos y las soluciones que tu negocio necesita."
         }
+    },
+    "about": {
+        "slogan": {
+            "tittle": "Nuestro objetivo:",
+            "text": "Si lo necesitas, lo tenemos"
+        },
+        "info": {
+            "tittle": "Hazlo con MPDA",
+            "lead": "En MPDA puedes contar con nosotros porque llevamos 7 años en la industria, perfeccionando el arte de la distribución de material. Nuestro equipo de líderes experimentados conoce las necesidades del mundo de la fabricación, por lo que obtenemos lo que necesita. No se trata sólo de números; Nuestro objetivo es hacerle la vida más fácil. Piense en nosotros como sus amigos de referencia en la escena de la distribución.",
+            "text": "Tenemos la historia, el conocimiento y las soluciones para mantener su operación funcionando sin problemas. Entonces, ¿por qué nosotros? Porque no estamos aquí sólo por ahora; Estamos aquí para un largo plazo, listos para brindarle una distribución de material de primer nivel sin complicaciones. Confía en nosotros; te cubrimos.",
+            "portf": "Ver Portafolio"
+        }
+    },
+    "why_us": {
+        "question": "¿Por qué confiar en nosotros?",
+        "tittle": "¡Brindamos las mejores soluciones para las necesidades de su negocio!",
+        "text": "Cuando se trata de abordar las cosas difíciles y ahorrarte mucho dinero, no somos sólo una solución rápida: estamos en esto a largo plazo.",
+        "check_1": "Elévese con experiencia: liberando soluciones comprobadas",
+        "check_2": "Soluciones confiables, entregadas por expertos",
+        "check_3": "Estamos aquí para hacer que las cosas sucedan.",
+        "check_4": "Forjando el éxito del mañana con la experiencia de hoy",
+        "check_5": "Su socio para soluciones confiables y precisión experta"
+    },
+    "service": {
+        "pre": "Consulte nuestros servicios",
+        "tittle": "Servicio premium de la mejor calidad",
+        "text": "Nuestras historias de éxito no son sólo historias de éxito; son el comienzo de lo que esperamos sea una amistad duradera.",
+        "box_1": {
+            "tittle": "Mentalidad",
+            "text": "No estamos aquí para ganar una sola vez; Queremos ser su equipo de referencia en el futuro previsible."
+        },
+        "box_2": {
+            "tittle": "Compromiso",
+            "text": "Estamos muy centrados en ayudarle a obtener los mejores productos."
+        },
+        "box_3": {
+            "tittle": "Satisfacer sus expectativas",
+            "text": "Ten por seguro de que haremos nuestro mejor esfuerzo."
+        }
+    },
+    "action_box": {
+        "text": "Entonces, comencemos juntos esta aventura. Manejaremos los desafíos, reduciremos los costos y nos aseguraremos de que el éxito no sea solo un momento sino un viaje que compartimos. ¿Listo para sumergirte? Hagámoslo realidad."
+    },
+    "portfolio": {
+        "pre": "Vea algunos de nuestros últimos trabajos.",
+        "tittle": "Nuestro Portafolio: Resultados de Calidad",
+        "text": "Nuestro portafolio muestra nuestro arduo trabajo y dedicación para ayudar a nuestros clientes a tener éxito. No confíe sólo en nuestra palabra.",
+        "item_1": {
+            "tittle": "Etiquetas para PCBAs",
+            "text": "Personaliza e imprime etiquetas térmicas de diseño."
+        },
+        "item_2": {
+            "tittle": "Tuercas",
+            "text": "Todo tipo de tuercas"
+        },
+        "item_3": {
+            "tittle": "Rondanas",
+            "text": "Todo tipo de rondanas"
+        },
+        "item_4": {
+            "tittle": "Tornillos",
+            "text": "Tornillos para todas tus necesidades"
+        },
+        "item_5": {
+            "tittle": "Remaches",
+            "text": "Remaches ciegos"
+        },
+        "item_6": {
+            "tittle": "Warehouse",
+            "text": "Warehouse"
+        },
+        "item_7": {
+            "tittle": "Wipes",
+            "text": "Toallas para limpieza"
+        },
+        "item_8": {
+            "tittle": "Rondanas",
+            "text": "Todo tipo de rondanas"
+        },
+        "item_9": {
+            "tittle": "Quimicos",
+            "text": "Quimicos Industriales"
+        },
+        "item_10": {
+            "tittle": "Silicon",
+            "text": "Silicon"
+        },
+        "item_11": {
+            "tittle": "Importación",
+            "text": "Industrial"
+        },
+        "item_12": {
+            "tittle": "Calzado antiestáticos",
+            "text": "Calzado antiestáticos"
+        }
+    },
+    "certifications": {
+        "title": "Nuestras Certificaciones"
+    },
+    "contact_sec": {
+        "title": "¿Cómo podemos ayudarte?",
+        "text": "La atención al cliente de MPDA está disponible de forma gratuita. Los cargos de conexión pueden variar al llamar desde fuera del área o desde el extranjero.",
+        "address": "Dirección",
+        "phone": "Teléfono"
     }
 }
