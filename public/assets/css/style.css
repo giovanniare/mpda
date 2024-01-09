@@ -17763,13 +17763,13 @@ textarea {
 
 /*BACK TOP TOP*/
 .back-top {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
   padding: 13px 14px !important;
   position: fixed !important;
-  bottom: 25px;
-  right: 25px;
+  bottom: 20px;
+  right: 20px;
   border-radius: 3px;
   display: block;
   text-align: center;
@@ -21534,4 +21534,43 @@ footer .widget {
   position: relative;
   margin-bottom: 6px;
   outline: 0;
+}
+
+/*BACK TOP TOP*/
+.back-top-wp {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  padding: 13px 14px !important;
+  position: fixed !important;
+  bottom: 25px;
+  right: 25px;
+  border-radius: 3px;
+  display: block;
+  text-align: center;
+  z-index: 9999;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transform: translateY(50%);
+          transform: translateY(50%);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.back-top-wp i {
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0 !important;
+  display: block;
+}
+.back-top-wp.btn-show {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+
+.whatsapp-btn {
+  position: fixed;
+  bottom: 2px; /* Ajusta la distancia desde el borde inferior según tus necesidades */
+  right: 2px; /* Ajusta la distancia desde el borde derecho según tus necesidades */
 }

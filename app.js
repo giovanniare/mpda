@@ -68,10 +68,10 @@ app.get('/jose_vega', (req, res) => {
         cel_text: "331-803-9863",
         img_banner: "jose_vega_transparent.png",
         img_contact: "jose_vega_white.png",
-        dynamic_words: "Parthner&&Distributor&&Businessman",
+        dynamic_words: "Partner&&Distributor&&Businessman",
         name_link: "jose_vega",
         email: "jose.v@mpda.com.mx",
-        personal_words: "Some words from Dani's hearth.",
-        global_words: "Here will be some text saying something interesting about me and my roll at company."
+        personal_words: "Committed to Solutions, Trusted by Clients - Let's Resolve Challenges Together.",
+        global_words: "Committed to Solutions, Trusted by Clients - Let's Resolve Challenges Together."
     })
 })
